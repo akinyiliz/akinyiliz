@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Liz 👋
 
-<!--
-**akinyiliz/akinyiliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer with a knack for building beautiful and functional things.
 
-Here are some ideas to get you started:
+## 🚀 Current Endeavors
+- Juggling exciting full-stack Web projects.
+- Exploring the world of Mobile Development.
+- Playing around with different tools and libraries to level up my skills.
+- Early riser, fueled by coffee and an unwavering passion for learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Random Bits
+- **Book lover**: From tech manuals to fantasy novels, give me a page and I'm hooked📚.
+- **Music junkie**: With playlists for every mood (and coding sprint!)🎶.
+- **Linux enthusiast**: My trusty penguin pal keeps my code humming smoothly and my curiosity sharp🐧.
+- **Tech community nerd**: Love attending tech meetups and conferences to stay connected with the community🤝🏽.
+
+## 📬 Let's Connect
+- Quick chats? Hit me up on [Twitter](https://twitter.com/iamliz_zie) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
+- Got serious business? Email me at [odhiamboeliza84@gmail.com](mailto:odhiamboeliza84@gmail.com).
