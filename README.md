@@ -17,5 +17,3 @@ A software developer with a knack for building beautiful and functional things.
 ## 📬 Let's Connect
 - Quick chats? Hit me up on [Twitter](https://twitter.com/iamliz_zie) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
 - Got serious business? Email me at [odhiamboeliza84@gmail.com](mailto:odhiamboeliza84@gmail.com).
-
-![Visits](https://profile-counter.glitch.me/akinyiliz/count.svg)
