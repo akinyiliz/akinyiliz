@@ -10,7 +10,7 @@ A software developer with a knack for building beautiful and functional things.
 
 ## ✨ Random Bits
 - **Book lover**: From tech manuals to fantasy novels, give me a page and I'm hooked📚.
-- **Music junkie**: With playlists for every mood (and coding sprint!)🎶.
+- **Music junkie**: With playlists for every mood🎶.
 - **Tech community nerd**: Love attending tech meetups and conferences to stay connected with the community🤝🏽.
 
 ## 📬 Let's Connect
