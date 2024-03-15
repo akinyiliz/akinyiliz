@@ -1,6 +1,6 @@
 ### Hi, I'm Liz 👋
 
-A software developer with a knack for building beautiful and functional things.
+A software developer passionate about creating innovative solutions and building products that elevate user experiences.
 
 ## 🚀 Current Endeavors
 - Juggling exciting full-stack Web projects.
