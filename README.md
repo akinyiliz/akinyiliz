@@ -14,5 +14,5 @@ A software developer passionate about creating innovative solutions and building
 - **Tech community nerd**: Love attending tech meetups and conferences to stay connected with the community🤝🏽.
 
 ## 📬 Let's Connect
-- Quick chats? Hit me up on [Twitter](https://twitter.com/iamliz_zie), [Instagram](https://www.instagram.com/iamliz.zie/) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
+- Quick chats? Hit me up on [Twitter](https://twitter.com/iamliz_zie), [Instagram](https://www.instagram.com/akinyiliz_/) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
 - Got serious business? Email me at [odhiamboeliza84@gmail.com](mailto:odhiamboeliza84@gmail.com).
