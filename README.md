@@ -46,5 +46,5 @@ A software developer passionate about creating innovative solutions and building
 
 ## 📬 Let's Connect
 
-- Quick chats? Hit me up on [Twitter](https://twitter.com/iamliz_zie), [Instagram](https://www.instagram.com/akinyiliz_/) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
+- Quick chats? Hit me up on [Instagram](https://www.instagram.com/akinyiliz_/) or find me on [LinkedIn](https://www.linkedin.com/in/elizabethodhiambo/).
 - Got serious business? Email me at [odhiamboeliza84@gmail.com](mailto:odhiamboeliza84@gmail.com).
