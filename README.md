@@ -9,7 +9,7 @@ A software developer passionate about creating innovative solutions and building
 - Playing around with different tools and libraries to level up my skills.
 - Early riser, fueled by coffee and an unwavering passion for learning.
 
-> Languages, tools, and other things that I like to work with.
+> Languages, tools, and other things that I to work with.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="36px" src="./assets/javascript-original.svg" style="margin-right: 10px;"></a>
 
